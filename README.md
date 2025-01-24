@@ -48,5 +48,6 @@ To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
     Sit back and profit from your successful Pump.Fun launches!
 
 ## Contact
-    Telegram: [@Oxlilmoat](https://t.me/Oxlilmoat)
+Telegram: [@Oxlilmoat](https://t.me/Oxlilmoat)
+
 
