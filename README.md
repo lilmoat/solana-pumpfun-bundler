@@ -1,52 +1,36 @@
-# Pump.Fun Bundler
+# Pump Fun Bundler - The Ultimate Solana Token Automation SDK
 
-This is bundler for pump.fun, enabling you to launch a token with 28 different wallets and profiles. 
-From this repositery, you can bundle 20 buy transactions for pump.fun and can have basic understanding about solana bundler.
-It's the basic free version and I developed advanced version for it.
+**Pump Fun Bundler** is a powerful and easy-to-use SDK designed for seamless **token creation, batch buying, selling, and transaction bundling** on Pump.fun using **Jito Bundles** and **LookupTable** for optimized efficiency. Whether you're a trader, developer, or project owner, this SDK ensures smooth, high-speed transactions with **multi-wallet support**.
 
+## Key Features
 
-## How to use
+### 🔹 Token Operations
+- **Instant Token Creation**: Deploy tokens seamlessly on Pump.fun.
+- **Custom Token Metadata**: Set custom metadata for your tokens.
+- **Custom Token Address**: Customize token addresses with specific prefixes and suffixes.
 
-To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
+### 🔹 Buy & Sell Automation
+- **Batch Token Buying**: Instantly buy tokens across multiple wallets.
+- **Batch Token Selling**: Sell tokens from multiple wallets simultaneously.
 
-1. **Clone the Repository:**
-    ```bash
-    git clone https://github.com/lilmoat/solana-pumpfun-bundler.git
-    ```
+### 🔹 Advanced Transaction Optimization
+- **Jito Bundle Integration**: Enables transaction bundling for **faster, front-run resistant** purchases.
+- **LookupTable Support**: Reduces transaction size and improves efficiency.
+- **LookupTable Closing**: Reclaim unnecessary SOL from LookupTables.
 
-2. **Navigate to the Project Directory:**
-    ```bash
-    cd pumpfun-launcher
-    ```
+### 🔹 Multi-Wallet Management
+- **Supports up to 20 Wallets**: Scale your transactions across multiple wallets effortlessly.
 
-3. **Install Dependencies:**
-    ```bash
-    npm install
-    ```
+## Live Demo & Transaction Examples
+Demo video: [https://www.youtube.com/watch?v=ShK1tgxQdg4](https://www.youtube.com/watch?v=ShK1tgxQdg4)
 
-4. **Set Up Environment Variables:**
-    Create a `.env` file in the project directory and add your configuration details:
-    ```plaintext
-    SOLANA_RPC_URL=https://api.mainnet-beta.solana.com
-    PRIVATE_KEY=<your-private-key-bs58>
-    ```
+Here’s a real example of token creation and instant batch buying with **20 wallets**:
 
-5. **Start the Application:**
-    ```bash
-    npm start
-    ```
+- **Jito Bundle ID**: `706e57b8f79e6a8160596922435d4842525575d5cfedc8484f00909a24bb19c9`
+- **Token Address**: [`3fdoNgW1shisnHervUFxiXmZgeeCnFrjwYW9HqHsNnGS`](https://solscan.io/token/3fdoNgW1shisnHervUFxiXmZgeeCnFrjwYW9HqHsNnGS)
+- **Main Wallet**: `moatXKJCg9x1zfJ785Rb6i3Xf2sWkbfRfBwKxK7TcoC`
 
-## Usage
-
-1. **Configure Buyers and Launch Settings:**
-    Use the intuitive UI to configure your buyers and launch settings.
-
-2. **Start the Bundling Process:**
-    Initiate the bundling process and let the tool handle the rest automatically.
-
-3. **Profit:**
-    Sit back and profit from your successful Pump.Fun launches!
+🔎 Check transaction status and interact with multiple wallets for verification.
 
 ## Contact
-    Telegram: [@Oxlilmoat](https://t.me/Oxlilmoat)
-
+Telegram: [@littlemoat](https://t.me/littlemoat)
