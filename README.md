@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0168991e-7f83-42e7-9d3e-89deb998a892)# Pump Fun Bundler - The Ultimate Solana Token Automation SDK
+# Pump Fun Bundler - The Ultimate Solana Token Automation SDK
 
 **Pump Fun Bundler** is a powerful and easy-to-use SDK designed for seamless **token creation, batch buying, selling, and transaction bundling** on Pump.fun using **Jito Bundles** and **LookupTable** for optimized efficiency. Whether you're a trader, developer, or project owner, this SDK ensures smooth, high-speed transactions with **multi-wallet support**.
 
