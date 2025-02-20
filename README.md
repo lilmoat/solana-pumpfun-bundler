@@ -25,7 +25,6 @@
 - **Supports up to 20 Wallets**: Scale your transactions across multiple wallets effortlessly.
 
 ## Live Demo & Transaction Examples
-Demo video: [https://www.youtube.com/watch?v=ShK1tgxQdg4](https://www.youtube.com/watch?v=ShK1tgxQdg4)
 
 Here’s a real example of token creation and instant batch buying with **20 wallets**:
 
